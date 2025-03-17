@@ -66,6 +66,11 @@
       "description":"Projeto desenvolvido com C#, utilizando POO para gerenciar reservas de hotel. Inclui funcionalidades como cadastro de hóspedes, definição de suítes, cálculo de diárias com desconto automático para estadias longas e validações de capacidade. O sistema é modular, permitindo fácil expansão e integrações futuras." 
     },
     {
+      "name": "Lista de Tarefas (API)",
+      "url": "https://github.com/Ntzsbiel/API-Lista-De-Tarefas",
+      "description":"Desenvolvi uma API de lista de tarefas com .NET, utilizando Entity Framework e SQL Server. O sistema segue o modelo CRUD, permitindo criar, visualizar, atualizar e excluir tarefas. Além disso, conta com documentação interativa via Swagger para facilitar testes e integração."
+    },
+    {
       "name": "Criação do Meu Portfólio",
       "url": "https://github.com/Ntzsbiel/Portfolio",
       "description":"Aqui você encontra uma vitrine dos meus projetos, habilidades e um pouquinho sobre quem sou. Mas calma, isso é só o começo! Conforme eu for aprendendo novas tecnologias, vou adicionar mais coisas legais por aqui."
