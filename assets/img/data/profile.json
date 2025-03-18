@@ -56,11 +56,6 @@
   ],
   "portfolio": [
     {
-      "name": "Pokedex utilizando a PokeApi",
-      "url": "https://github.com/Ntzsbiel/js-developer-pokedex",
-      "description":"Este projeto é uma Pokedex interativa desenvolvida com HTML, CSS e JavaScript. Utiliza a API pública do Pokémon (PokeAPI) para buscar e exibir informações sobre os Pokémon."
-    },
-    {
       "name": "Sistema de hospedagem em hotel",
       "url": "https://github.com/Ntzsbiel/sistema-hospedagem",
       "description":"Projeto desenvolvido com C#, utilizando POO para gerenciar reservas de hotel. Inclui funcionalidades como cadastro de hóspedes, definição de suítes, cálculo de diárias com desconto automático para estadias longas e validações de capacidade. O sistema é modular, permitindo fácil expansão e integrações futuras." 
